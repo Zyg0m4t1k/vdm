@@ -1,0 +1,13 @@
+{
+	"id" : "vdm",
+	"name" : "Vie de Merde",
+	"description" : "Plugin pour récupérer les dernières vdm",
+	"licence" : "AGPL",
+	"author" : "Zyg0m4t1k",
+	"require" : "3.2",
+	"category" : "monitoring",
+	"changelog" : "",
+	"documentation" : "",
+	"language" : ["fr_FR","en_US","de_DE","sp_SP","ru_RU","id_ID","it_IT"],
+	"compatibility" : ["miniplus","smart","rpi","docker","diy"]	
+}
